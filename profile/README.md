@@ -1,4 +1,5 @@
 # Material Congregation
+## Game Development Studio and Open Source Hardware Distributor
 
 <!--
 
